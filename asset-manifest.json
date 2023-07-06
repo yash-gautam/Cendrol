@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cendrol/static/css/main.4f3211e1.css",
+    "main.js": "/Cendrol/static/js/main.97ee459b.js",
+    "index.html": "/Cendrol/index.html",
+    "main.4f3211e1.css.map": "/Cendrol/static/css/main.4f3211e1.css.map",
+    "main.97ee459b.js.map": "/Cendrol/static/js/main.97ee459b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3211e1.css",
+    "static/js/main.97ee459b.js"
+  ]
+}
